@@ -69,9 +69,10 @@ print(list_of_nums)
 
 ## Output:
 
-![Screenshot (62)](https://user-images.githubusercontent.com/118361409/214368559-20ff1dc7-c237-47a3-837f-d4c897a28110.png)
+![Screenshot (111)](https://user-images.githubusercontent.com/118361409/214821508-471e4b4f-3221-4e8b-a8b8-8abb9222b52e.png)
 
-![Screenshot (63)](https://user-images.githubusercontent.com/118361409/214368798-abc745f9-0e51-454e-84f0-409216cfeef9.png)
+![Screenshot (110)](https://user-images.githubusercontent.com/118361409/214821399-98fe10fb-d53e-461b-8028-4019580cb69a.png)
+
 
 
 ## Result:
